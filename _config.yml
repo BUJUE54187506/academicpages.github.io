@@ -22,7 +22,7 @@ repository               : "BUJUE54187506/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2025/02/21/pEQzXfs.png"
   name             : "尤鱼"
   pronouns         : # example: "he"  
   bio              : "我是一个友善的人(>ω<)"
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://s21.ax1x.com/2025/02/21/pEQzXfs.png"
+  googlescholar    : #"https://s21.ax1x.com/2025/02/21/pEQzXfs.png"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
